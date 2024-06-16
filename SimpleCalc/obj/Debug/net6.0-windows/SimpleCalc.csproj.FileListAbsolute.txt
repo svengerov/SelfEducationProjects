@@ -1,0 +1,16 @@
+E:\PROGRAMMING\SimpleCalc\bin\Debug\net6.0-windows\SimpleCalc.exe
+E:\PROGRAMMING\SimpleCalc\bin\Debug\net6.0-windows\SimpleCalc.deps.json
+E:\PROGRAMMING\SimpleCalc\bin\Debug\net6.0-windows\SimpleCalc.runtimeconfig.json
+E:\PROGRAMMING\SimpleCalc\bin\Debug\net6.0-windows\SimpleCalc.dll
+E:\PROGRAMMING\SimpleCalc\bin\Debug\net6.0-windows\SimpleCalc.pdb
+E:\PROGRAMMING\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.Form1.resources
+E:\PROGRAMMING\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.csproj.GenerateResource.cache
+E:\PROGRAMMING\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMMING\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.AssemblyInfoInputs.cache
+E:\PROGRAMMING\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.AssemblyInfo.cs
+E:\PROGRAMMING\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.dll
+E:\PROGRAMMING\SimpleCalc\obj\Debug\net6.0-windows\refint\SimpleCalc.dll
+E:\PROGRAMMING\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.pdb
+E:\PROGRAMMING\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.genruntimeconfig.cache
+E:\PROGRAMMING\SimpleCalc\obj\Debug\net6.0-windows\ref\SimpleCalc.dll
