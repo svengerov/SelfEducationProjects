@@ -1,0 +1,14 @@
+E:\PROGRAMMING\HouseExpencesCalculator\bin\Debug\net6.0\HouseExpencesCalculator.exe
+E:\PROGRAMMING\HouseExpencesCalculator\bin\Debug\net6.0\HouseExpencesCalculator.deps.json
+E:\PROGRAMMING\HouseExpencesCalculator\bin\Debug\net6.0\HouseExpencesCalculator.runtimeconfig.json
+E:\PROGRAMMING\HouseExpencesCalculator\bin\Debug\net6.0\HouseExpencesCalculator.dll
+E:\PROGRAMMING\HouseExpencesCalculator\bin\Debug\net6.0\HouseExpencesCalculator.pdb
+E:\PROGRAMMING\HouseExpencesCalculator\obj\Debug\net6.0\HouseExpencesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMMING\HouseExpencesCalculator\obj\Debug\net6.0\HouseExpencesCalculator.AssemblyInfoInputs.cache
+E:\PROGRAMMING\HouseExpencesCalculator\obj\Debug\net6.0\HouseExpencesCalculator.AssemblyInfo.cs
+E:\PROGRAMMING\HouseExpencesCalculator\obj\Debug\net6.0\HouseExpencesCalculator.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING\HouseExpencesCalculator\obj\Debug\net6.0\HouseExpencesCalculator.dll
+E:\PROGRAMMING\HouseExpencesCalculator\obj\Debug\net6.0\refint\HouseExpencesCalculator.dll
+E:\PROGRAMMING\HouseExpencesCalculator\obj\Debug\net6.0\HouseExpencesCalculator.pdb
+E:\PROGRAMMING\HouseExpencesCalculator\obj\Debug\net6.0\HouseExpencesCalculator.genruntimeconfig.cache
+E:\PROGRAMMING\HouseExpencesCalculator\obj\Debug\net6.0\ref\HouseExpencesCalculator.dll
