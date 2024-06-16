@@ -1,0 +1,14 @@
+E:\PROGRAMMING\SupermarketApp\obj\Debug\net6.0\SupermarketApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMMING\SupermarketApp\obj\Debug\net6.0\SupermarketApp.AssemblyInfoInputs.cache
+E:\PROGRAMMING\SupermarketApp\obj\Debug\net6.0\SupermarketApp.AssemblyInfo.cs
+E:\PROGRAMMING\SupermarketApp\obj\Debug\net6.0\SupermarketApp.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING\SupermarketApp\bin\Debug\net6.0\SupermarketApp.exe
+E:\PROGRAMMING\SupermarketApp\bin\Debug\net6.0\SupermarketApp.deps.json
+E:\PROGRAMMING\SupermarketApp\bin\Debug\net6.0\SupermarketApp.runtimeconfig.json
+E:\PROGRAMMING\SupermarketApp\bin\Debug\net6.0\SupermarketApp.dll
+E:\PROGRAMMING\SupermarketApp\bin\Debug\net6.0\SupermarketApp.pdb
+E:\PROGRAMMING\SupermarketApp\obj\Debug\net6.0\SupermarketApp.dll
+E:\PROGRAMMING\SupermarketApp\obj\Debug\net6.0\refint\SupermarketApp.dll
+E:\PROGRAMMING\SupermarketApp\obj\Debug\net6.0\SupermarketApp.pdb
+E:\PROGRAMMING\SupermarketApp\obj\Debug\net6.0\SupermarketApp.genruntimeconfig.cache
+E:\PROGRAMMING\SupermarketApp\obj\Debug\net6.0\ref\SupermarketApp.dll
